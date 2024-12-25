@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/WpfMD/.vs/
+/WpfMD/bin/Debug/app.publish
+/WpfMD/bin/Debug
+/WpfMD/bin/Release
+/WpfMD/obj/
+.vs/WpfMD/DesignTimeBuild
+/packages
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+*.user
+/.vs/WpfMD
